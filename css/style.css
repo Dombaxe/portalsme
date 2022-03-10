@@ -276,7 +276,7 @@ div .dom:hover{
 }
 
 .area-card{
-    background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../assets/passaportea.PNG');
+    background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../assets/passaportea.png');
     background-attachment: scroll;
     background-size: cover;
     background-attachment: fixed;
