@@ -10,7 +10,7 @@ Template Name: Agendamento
        <div class="carousel-inner">
          
          <div class="carousel-item active">
-           <img src="<?php bloginfo('template_url'); ?>/assets/IMG_5168.JPG"   class="d-block w-100" alt="...">
+           <img src="<?php bloginfo('template_url'); ?>/assets/IMG_5168.jpg"   class="d-block w-100" alt="...">
                <div class="carousel-caption d-none d-md-block">
                    <div class="carousel-dom2 element-animate">
                      <h2 class="mb-3">Agendamento</h2>

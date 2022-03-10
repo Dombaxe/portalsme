@@ -5,12 +5,12 @@
        <div class="carousel-inner">
          
          <div class="carousel-item active">
-           <img src="<?php bloginfo('template_url'); ?>/assets/IMG_4093.JPG"   class="d-block w-100" alt="...">
+           <img src="<?php bloginfo('template_url'); ?>/assets/IMG_4093.jpg"   class="d-block w-100" alt="...">
                <div class="carousel-caption d-none d-md-block">
                    <div class="carousel-dom2 element-animate">
                      <h2 class="mb-3">Notícias</h2>
                      <div class="carousel-a">
-                     <a href="http://localhost/PortalsmeV3/index.php/" class="">Home </a> <i class="fa fa-angle-right" style="font-size:1.2rem"></i>
+                     <a href="http://sme.gov.ao/index.php/" class="">Home </a> <i class="fa fa-angle-right" style="font-size:1.2rem"></i>
                        Notícias
                      </div>
                    </div>
@@ -31,7 +31,7 @@
 <div class="row d-flex justify-content-center my-5">
 <div class="col-md-12 col-lg-8">
 
- <img src="<?php bloginfo('template_url'); ?>/assets/error-404.GIF" class="img-fluid d-block" height="400" width="500">
+ <img src="<?php bloginfo('template_url'); ?>/assets/error-404.gif" class="img-fluid d-block" height="400" width="500">
  <p color="text-center" style="color:#8a909a;font-size:.9rem">Pagina não encontrada</p>
 </div>
 
