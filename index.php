@@ -10,6 +10,7 @@
                     <div class="row mt-1 mb-1 area-cont">
                         <div class="col-sm-6 col-md-12">
                             <!-- <div class="" style="font-size:16px;font-weight:bold"><a href="<?php bloginfo('template_url'); ?>/formularios/Proposta de Form. vistos.pdf" target="_blank">FORMULÁRIO DIGITAL DE VISTOS</a> | <a href="<?php bloginfo('template_url'); ?>/formularios/Proposta Form. digital cartão.pdf" target="_blank">FORMULÁRIO DIGITAL DE CARTÃO</a> | <a href="<?php bloginfo('template_url'); ?>/Proposta Form. digital passaporte.pdf" target="_blank">FORMULÁRIO DIGITAL DE PASSAPORTE</a></div> -->
+                            <!-- http://dtiproject.sme/ Sistema de Consulta-->
                         </div>
                         <div class="col-sm-6 col-md-6">
                             <hr>
