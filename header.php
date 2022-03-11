@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/owl.carousel.min.css">
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/owl.theme.green.min.css">
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/animate.css">
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/owlStyle.css">
