@@ -31,54 +31,66 @@ Template Name:page
            <?php include('mobile.php') ?>
            <!--Mobile fim-->
         
-           <section class="card-notcia">
-                <div class="container element-animate">
-                  
-                    <div class="row mt-5">
-                        <?php
-                            $paged= (get_query_var('paged')) ? absint(get_query_var('paged')) : 1;
-                            $args=array(
-                                'post_type' =>'post',
-                                'posts_per_page' => 16,
-                                'paged'          =>$paged,
-                            );
+         <!-- Categoria de Mais Notícias -->
 
-                            $the_query=new WP_Query($args); 
-                        ?>
-                        <?php if($the_query->have_posts()) : ?>
-                        <?php while($the_query->have_posts()) : $the_query->the_post(); ?>
+  <section class="card-header section-maisnoticias mais-noticias">
 
-                        <div class="col-sm-6 col-md-3">
-                            <div class="card">
-                               <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('post-thumbnail',  array('class'=> 'card-img-top rounded img-fluid owl-lazy'));?></a>        
-                                <div class="card-body">
-                                   <a href="<?php the_permalink(); ?>"><h5 class="card-title"><?php the_title(); ?></h5></a>
-                                   <p class="card-text dom-musted"><?php echo get_the_date(); ?></p>
-                                   <p class="card-text"><?php the_excerpt(); ?></p>
-                                   <a href="<?php the_permalink(); ?>"><p class="card-text dom-musted" style="color:#CCCD3E">Ler Mais..</p></a>                                   
-                                </div>
-                            </div>
-                        </div>
-                                              
-                  </div>
-                    <?php endwhile; ?>
-                    <?php else: get_404_template(); endif ?>
-
-                    <div class="paginacao d-flex justify-content-center mt-2">
+<div class="container mt-5 mb-3">
     
-                        <?php
-                            $big = 999999999; // need an unlikely integer
-                            
-                            echo paginate_links( array(
-                                'base' => str_replace( $big, '%#%', esc_url( get_pagenum_link( $big ) ) ),
-                                'format' => '?paged=%#%',
-                                'current' => max( 1, get_query_var('paged') ),
-                                'total' => $the_query->max_num_pages
-                            ) );
-                        ?>
+    <div class="row">
 
-                    </div>
+            <?php
+              $paged= (get_query_var('paged')) ? absint(get_query_var('paged')) : 1;
+              $args=array(
+                'post_type' =>'post',
+                'posts_per_page' => 16,
+                'paged'          =>$paged,
+              );
+
+              $the_query=new WP_Query($args); 
+            ?>
+          <?php if($the_query->have_posts()) : ?>
+          <?php while($the_query->have_posts()) : $the_query->the_post(); ?>
+
+      <div class="col-sm-6 col-md-3 my-4 zoom">
+          <div class="card ">
+             <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('post-thumbnail',  array('class'=> 'card-img-top rounded img-fluid owl-lazy'));?></a>        
+               <div class="card-body">
+               
+                  <a href="<?php the_permalink(); ?>"><h5 class="card-title"><?php the_title(); ?></h5></a>
+                  <p class="card-text dom-musted"><?php echo get_the_date(); ?></p>
+                  <p class="card-text"><?php the_excerpt(); ?></p>
+                  <a href="<?php the_permalink(); ?>"><p class="card-text dom-musted" style="color:#CCCD3E">Ler Mais..</p></a>
+               
                 </div>
-            </section>
+          </div>
+         
+      </div>
+          
+          <?php endwhile; ?>
+          <?php else: get_404_template(); endif ?>
+          
+  </div>
+    <a href="#" id="efimerides"></a>
+
+            <div class="paginacao d-flex justify-content-center mt-2">
+          
+                  <?php
+                    $big = 999999999; // need an unlikely integer
+                    
+                    echo paginate_links( array(
+                        'base' => str_replace( $big, '%#%', esc_url( get_pagenum_link( $big ) ) ),
+                        'format' => '?paged=%#%',
+                        'current' => max( 1, get_query_var('paged') ),
+                        'total' => $the_query->max_num_pages
+                    ) );
+                  ?>
+          
+            </div>
+
+</div>
+  
+</section>
+
 
 <?php get_footer(); ?>
