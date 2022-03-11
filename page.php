@@ -48,7 +48,7 @@ Template Name:page
                         <?php if($the_query->have_posts()) : ?>
                         <?php while($the_query->have_posts()) : $the_query->the_post(); ?>
 
-                        <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="col-sm-6 col-md-3">
                             <div class="card">
                                <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('post-thumbnail',  array('class'=> 'card-img-top rounded img-fluid owl-lazy'));?></a>        
                                 <div class="card-body">
