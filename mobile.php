@@ -25,7 +25,7 @@
                     </li>
                               
                 </ul>
-                  <div class="" style="font-size:16px;font-weight:bold"><a href="<?php bloginfo('template_url'); ?>/formularios/Proposta de Form. vistos.pdf" target="_blank">FORMULÁRIO DIGITAL DE VISTOS</a> | <a href="<?php bloginfo('template_url'); ?>/formularios/Proposta Form. digital cartão.pdf" target="_blank">FORMULÁRIO DIGITAL DE CARTÃO</a> | <a href="<?php bloginfo('template_url'); ?>/Proposta Form. digital passaporte.pdf" target="_blank">FORMULÁRIO DIGITAL DE PASSAPORTE</a></div>
+                  <!-- <div class="" style="font-size:16px;font-weight:bold"><a href="<?php bloginfo('template_url'); ?>/formularios/Proposta de Form. vistos.pdf" target="_blank">FORMULÁRIO DIGITAL DE VISTOS</a> | <a href="<?php bloginfo('template_url'); ?>/formularios/Proposta Form. digital cartão.pdf" target="_blank">FORMULÁRIO DIGITAL DE CARTÃO</a> | <a href="<?php bloginfo('template_url'); ?>/Proposta Form. digital passaporte.pdf" target="_blank">FORMULÁRIO DIGITAL DE PASSAPORTE</a></div> -->
              </div>
 
       </section>
