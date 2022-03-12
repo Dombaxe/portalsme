@@ -104,7 +104,7 @@
                           <li class="nav-item d-none d-md-block">
                                 <a class="nav-link mr-0 dom2" href="#"><i class="fa fa-youtube"></i></a>
                         </li> 
-                          <li class="nav-item dropdown d-none d-md-block">
+                          <li class="nav-item dropdown d-md-block d-none">
                               <?php
                                 dynamic_sidebar('Lingua');
                               ?>

@@ -10,16 +10,12 @@
                   </li>
                   <li class="mr-1">
                         <a class="btn btn-danger btn-sm youtb" href="#"><i class="fa fa-youtube"></i></a>
-                </li> 
-                <li class=" dropdown dom-lo">
-                        <a class="btn btn-sm doml" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          EN
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right mt-3 bg-idioma mob" aria-labelledby="navbarDropdownMenuLink">
-                          <a class="dropdown-item" href="#">PT</a>
-                          <a class="dropdown-item" href="#">EN</a>
-                        </div>
-                      </li> 
+                  </li> 
+                    <li class="nav-item dropdown">
+                        <?php
+                          dynamic_sidebar('Lingua');
+                        ?>
+                    </li>  
                     <li class="mr-1">
                           <a class="btn btn-danger btn-sm ml-1" href="//www.smevisa.gov.ao/">VISTOS</a>
                     </li>
