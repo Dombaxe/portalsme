@@ -28,7 +28,7 @@ Template Name:page
             </section>
 
            <!--Mobile-->
-           <?php include('mobile.php') ?>
+           <?php include('mobile_sme.php') ?>
            <!--Mobile fim-->
         
          <!-- Categoria de Mais Notícias -->
