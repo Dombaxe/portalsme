@@ -5,13 +5,46 @@
            <!--Mobile fim-->
 
            <!--DESTAQUE-->
-            <section class="section-text container-fluid element-animate d-md-block d-none" data-animate-effect="fadeInUP" style="padding-top:140px">
-               
-                    <div class="row mt-1 mb-1 area-cont">
-                        <div class="col-sm-6 col-md-12">
-                            <!-- <div class="" style="font-size:16px;font-weight:bold"><a href="<?php bloginfo('template_url'); ?>/formularios/Proposta de Form. vistos.pdf" target="_blank">FORMULÁRIO DIGITAL DE VISTOS</a> | <a href="<?php bloginfo('template_url'); ?>/formularios/Proposta Form. digital cartão.pdf" target="_blank">FORMULÁRIO DIGITAL DE CARTÃO</a> | <a href="<?php bloginfo('template_url'); ?>/Proposta Form. digital passaporte.pdf" target="_blank">FORMULÁRIO DIGITAL DE PASSAPORTE</a></div> -->
-                            <!-- http://dtiproject.sme/ Sistema de Consulta-->
+           <section class="container element-animate d-md-block d-none" style="padding-top:200px">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <a target="_blank"  href="//www.smevisa.gov.ao/">
+                            <div class="card text-white mb-3" style="background:#117eb9">
+                              <div class="card-header text-center">
+                                  <p><i class="fa fa-globe" style="font-size:29px;color:white"></i></p>
+                                  <a target="_blank"  href="//www.smevisa.gov.ao/" style="color:white;text-decoration:none">VISTO DE TURISMO ONLINE</a>
+                                </div>
+                            </div>
+                            </a>
                         </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a href="">
+                            <div class="card text-white mb-3" style="background:#117eb9">
+                              <div class="card-header text-center">    
+                                  <p><i class="fa fa-file" style="font-size:29px;color:white"></i></p>
+                                  <a href="" style="color:white;text-decoration:none">FORMULÁRIOS DIGITAIS</a>
+                              </div>
+                            </div>
+                            </a>
+                        </div>
+                                
+                        <div class="col-sm-6 col-md-4">
+                            <a href="https://www.sme.gov.ao/agendamento/">
+                            <div class="card text-white mb-3" style="background:#117eb9">
+                              <div class="card-header text-center">  
+                              <p><i class="fa fa-calendar" style="font-size:29px;color:white"></i></p>
+                                  <a href="https://www.sme.gov.ao/agendamento/" style="color:white;text-decoration:none"> AGENDAMENTO</a>                         
+                              </div>                    
+                            </div>
+                            </a>
+                        </div>
+                    </div>
+
+            </section>
+            <section class="section-text container-fluid element-animate d-md-block d-none" data-animate-effect="fadeInUP">
+               
+                    <div class="row mt-1 mb-1">
+                       
                         <div class="col-sm-6 col-md-6">
                             <hr>
                             <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
@@ -162,8 +195,8 @@
                                <?php the_post_thumbnail('post-thumbnail', array('class' => 'img-fluid img')); ?>
                              </a>
                                 
-                                <a href="<?php the_permalink(); ?>"  class="card-text efim" style="text-shadow:2px 2px 3px rgb(19, 18, 18);"><?php the_title(); ?></a>
-                                <p class="card-text efim"><?php echo get_the_date(); ?></p>                   
+                                <a href="<?php the_permalink(); ?>"  class="card-text efim text-white" style="text-shadow:2px 2px 3px rgb(19, 18, 18);"><?php the_title(); ?></a>
+                                <p class="card-text efim text-white"><?php echo get_the_date(); ?></p>                   
                          </div>
                         
                          <?php endwhile; endif;  ?>

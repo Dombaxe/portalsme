@@ -496,12 +496,12 @@ div .dom:hover{
     font-weight: bold;
 }
 .efim{
-    color:#e3cb0a;
+    color:white;
     font-weight:bold;
  }
  
  .efim:hover{
-     color:#e3cb0a;
+     color:white;
      font-weight:bold;
  }
 /* Paginacao mais-noticias */
