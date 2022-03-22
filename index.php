@@ -43,7 +43,7 @@
             </section>
             <section class="section-text container-fluid element-animate d-md-block d-none" data-animate-effect="fadeInUP">
                
-                    <div class="row mt-1 mb-1">
+                    <div class="row mb-1">
                        
                         <div class="col-sm-6 col-md-6">
                             <hr>
