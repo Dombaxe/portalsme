@@ -33,11 +33,9 @@
 
              <div class="d-md-block d-none"><a class="nav-link mr-0" href="" data-toggle="modal" data-target="#sitemodal"><i class="fa fa-search"></i></a></div>
              <div class="d-md-block d-none"><a href="https://www.facebook.com/servicodemigracaoestrangeiros" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/facebook.png" width="25px" height="25px"></a></div>
-             <div class="d-md-block d-none"><li>
-                    <?php
-                      dynamic_sidebar('Lingua');
-                    ?> 
-                  </li>  </div>
+             <div class="d-md-block d-none"> <?php
+                                dynamic_sidebar('Lingua');
+                              ?></div>
              
 
                 
