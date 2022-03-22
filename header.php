@@ -24,57 +24,27 @@
   </head>
   <body>
     <header class="fixed-top">
-        <nav class="navbar navbar-expand-lg max-headera">
-            <!-- <a class="navbar-brand max-logo col-12 logo" href="#" style="text-align:center">
-                    <img src="src/assets/sme.png">|
-                    <img src="src/assets/logomarca3.png">
-            </a> -->
+        <nav class="navbar navbar-expand-lg max-headera bg-white">
+            <a class="navbar-brand col-10 logo" href="#">
+                    <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="600px" height="20px">
+                                
+            </a>
 
-            <section class="top top-fixed p-1">
-      
-                <div class=" ml-3 mr-3 d-flex align-items-center">
-                <div class="ml-2">
-                  <?php
-                     $custom_logo_id=get_theme_mod('custom_logo');
-                     $logo=wp_get_attachment_image_src($custom_logo_id,'full');
+             <div class="d-md-block d-none"><a class="nav-link mr-0" href="" data-toggle="modal" data-target="#sitemodal"><i class="fa fa-search"></i></a></div>
+             <div class="d-md-block d-none"><a href="https://www.facebook.com/servicodemigracaoestrangeiros" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/facebook.png" width="25px" height="25px"></a></div>
+             <div class="d-md-block d-none"> <?php
+                                dynamic_sidebar('Lingua');
+                              ?></div>
+             
 
-                     if(has_custom_logo() ){
-                       echo '<img src="' . esc_url($logo[0]) .'" class="img-fluid" width="100">';
-
-                     }else{
-
-                      echo '<h5>'. get_bloginfo('name') . '</h5>';
-                    
-                     }
-
-                     
-                    ?>
-                </div>
                 
-                <div class="d-flex flex-column">
-                <div class="">
-                    <div class="d-flex align-items-end mb-2">
-
-                    </div>
-                    <div class="d-md-block d-none">
-                    <h5 class="text-center" style="color:white;font-weight: bold"><?php bloginfo('name'); ?></h5>
-                    <h5 class="ml-2"  style="color:white;font-weight: bold"><?php bloginfo('description'); ?></h5>
-                    </div>
-                    <div class="d-md-none d-sm-block">
-                    <h5 class="text-center"  style="color:white;font-weight: bold"><?php bloginfo('name'); ?></h5>
-                    <h5 class="ml-2"   style="color:white;font-weight: bold"><?php bloginfo('description'); ?></h5>
-                    </div>
-                </div>
-                </div>
-
-                <div class="d-md-block d-none" style="margin-left:35rem">
-                   <img src="<?php bloginfo('template_url'); ?>/assets/logomarca3.png" width="100">
+                 
                 </div>
    
             </section>   
                  
           </nav>
-          <nav class="navbar navbar-expand-lg  bg-light">
+          <nav class="navbar navbar-expand-lg" style="background:#117eb9">
                 <a class="navbar-brand col-2" href="#"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'your-theme-slug' ); ?>">
                         <span class="navbar-toggler-icon text-dark">
@@ -94,21 +64,7 @@
                     ) );
                     ?>
 
-                          <li class="nav-item  d-none d-md-block">
-                            <a class="nav-link mr-0" href="" data-toggle="modal" data-target="#sitemodal"><i class="fa fa-search"></i></a>
-                          </li>
-                          <li class="nav-item d-none d-md-block">
-                                  <a class="nav-link mr-0 dom1" href="https://www.facebook.com/servicodemigracaoestrangeiros"><i class="fa fa-facebook"></i></a>
-                          </li>
-                          <li class="nav-item d-none d-md-block">
-                                <a class="nav-link mr-0 dom2" href="#"><i class="fa fa-youtube"></i></a>
-                        </li> 
-                          <li class="nav-item dropdown d-md-block d-none">
-                              <?php
-                                dynamic_sidebar('Lingua');
-                              ?>
-                          </li>               
-                        </ul>
+                          
             
                 </div>
            </nav>
