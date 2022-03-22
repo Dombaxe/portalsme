@@ -11,10 +11,6 @@
                   <li class="mr-1">
                         <a class="btn btn-danger btn-sm youtb" href="#"><i class="fa fa-youtube"></i></a>
                   </li> 
-                  
-                    <li class="mr-1">
-                          <a class="btn btn-danger btn-sm ml-1" href="//www.smevisa.gov.ao/">VISTOS</a>
-                    </li>
                               
                 </ul>
                 <div class="row">
