@@ -29,10 +29,7 @@
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="600px" height="90px">
                                 
             </a>
-            <a class="navbar-brand col-9 logo d-sm-block d-md-none" href="#">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="500px" height="90px">
-                                
-            </a>
+           
 
              <div class="d-md-block d-none"><a class="nav-link mr-0" href="" data-toggle="modal" data-target="#sitemodal"><i class="fa fa-search"></i></a></div>
              <div class="d-md-block d-none"><a href="https://www.facebook.com/servicodemigracaoestrangeiros" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/facebook.png" width="25px" height="25px"></a></div>

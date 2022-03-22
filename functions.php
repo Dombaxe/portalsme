@@ -76,10 +76,10 @@ register_sidebar(
     array(
       'name' => 'Lingua',
       'id' => 'lingua',
-      'before widget' => '<div>',
-      'after_widget' => ' </div>',
-    //   'before_title' => '<a>',
-    //   'after_title' => '</a>',
+      'before widget' => '<li class="nav-item dropdown">',
+      'after_widget' => ' </li>',
+      'before_title' => '<a>',
+      'after_title' => '</a>',
 
     ));
 
