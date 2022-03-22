@@ -78,8 +78,8 @@ register_sidebar(
       'id' => 'lingua',
       'before widget' => '<div>',
       'after_widget' => ' </div>',
-      'before_title' => '<a>',
-      'after_title' => '</a>',
+    //   'before_title' => '<a>',
+    //   'after_title' => '</a>',
 
     ));
 
