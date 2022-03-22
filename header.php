@@ -25,7 +25,7 @@
   <body>
     <header class="fixed-top">
         <nav class="navbar navbar-expand-lg max-headera bg-white">
-            <a class="navbar-brand col-8 logo" href="#">
+            <a class="navbar-brand col-9 logo" href="#">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="500px" height="90px">
                                 
             </a>
