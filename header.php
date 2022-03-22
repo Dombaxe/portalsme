@@ -29,7 +29,7 @@
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="600px" height="90px">                               
             </a>
             <a class="navbar-brand col-9 logo d-sm-block d-md-none" href="#">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="400px" height="90px">                               
+                    <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="350px" height="90px">                               
             </a>
             
            
