@@ -64,14 +64,14 @@ Template Name: Formularios digitais
 
          <h5 class="mt-5" style="font-weight:bold">FORMULÁRIOS DIGITAIS</h5>
 
-         <p>O Serviço de Migração e Estrangeiros optou pela utilização de formulários digitais que nada mais é que a informatização dos actuais formulários, passando a estar disponíveis na Internet e no portal institucional do SME, para que sejam preenchidos preferencialmente de forma digital, ou em alternativa, preenchidos manualmente.</p>
+         <p style="text-align:justify">O Serviço de Migração e Estrangeiros optou pela utilização de formulários digitais que nada mais é que a informatização dos actuais formulários, passando a estar disponíveis na Internet e no portal institucional do SME, para que sejam preenchidos preferencialmente de forma digital, ou em alternativa, preenchidos manualmente.</p>
 
          <h5 class="mt-2" style="font-weight:bold">CUSTO DE VENDA</h5>
-         <p>Não havendo custo de produção, e ficando para o utente a responsabilidade de imprimir, os formulários digitais não serão objecto de venda.</p>
+         <p style="text-align:justify">Não havendo custo de produção, e ficando para o utente a responsabilidade de imprimir, os formulários digitais não serão objecto de venda.</p>
 
          <h5 class="mt-2" style="font-weight:bold">UTILIZAÇÃO HÍBRIDA</h5>
-         <p>Havendo ainda em circulação formulários, é de todo recomendável a utilização híbrida destes, ou seja, passa a ser aceite o formulário digital desprovido de qualquer custo, todavia, para quem não seja portador este, pode optar pela compra.</p>
-         <p>Entretanto, é de todo recomendável a utilização do original, porém serão aceites fotocópias, desde que estejam em bom estado.</p>
+         <p style="text-align:justify">Havendo ainda em circulação formulários, é de todo recomendável a utilização híbrida destes, ou seja, passa a ser aceite o formulário digital desprovido de qualquer custo, todavia, para quem não seja portador este, pode optar pela compra.</p>
+         <p style="text-align:justify">Entretanto, é de todo recomendável a utilização do original, porém serão aceites fotocópias, desde que estejam em bom estado.</p>
 
          
    </div>
