@@ -10,7 +10,12 @@
                   </li>
                   <li class="mr-1">
                         <a class="btn btn-danger btn-sm youtb" href="#"><i class="fa fa-youtube"></i></a>
-                  </li> 
+                  </li>
+                  <li>
+                    <?php
+                      dynamic_sidebar('Lingua');
+                    ?> 
+                  </li>  
                               
                 </ul>
                 <div class="row">
