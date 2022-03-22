@@ -17,7 +17,7 @@
                     </li>
                               
                 </ul>
-                    <div class="row">
+                <div class="row">
                         <div class="col-sm-6 col-md-4">
                             <a target="_blank"  href="//www.smevisa.gov.ao/">
                             <div class="card text-white mb-3" style="background:#117eb9">
@@ -29,11 +29,11 @@
                             </a>
                         </div>
                         <div class="col-sm-6 col-md-4">
-                            <a href="">
+                            <a href="https://www.sme.gov.ao/formularios-digitais/">
                             <div class="card text-white mb-3" style="background:#117eb9">
                               <div class="card-header text-center">    
                                   <p><i class="fa fa-file" style="font-size:29px;color:white"></i></p>
-                                  <a href="" style="color:white;text-decoration:none">FORMULÁRIOS DIGITAIS</a>
+                                  <a href="https://www.sme.gov.ao/formularios-digitais/" style="color:white;text-decoration:none">FORMULÁRIOS DIGITAIS</a>
                               </div>
                             </div>
                             </a>
@@ -50,7 +50,6 @@
                             </a>
                         </div>
                     </div>
-             </div>
 
       </section>
            
