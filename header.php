@@ -69,7 +69,6 @@
 
                 <div class="d-md-block d-none" style="margin-left:35rem">
                    <img src="<?php bloginfo('template_url'); ?>/assets/logomarca3.png" width="100">
-                   <a class="btn btn-danger mt-1 btn-lg ml-4" target="_blank"  href="//www.smevisa.gov.ao/">VISTOS</a>
                 </div>
    
             </section>   

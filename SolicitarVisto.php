@@ -43,7 +43,7 @@ Template Name: Pedido de Visto
         <a href="http://www.sme.gov.ao/SolicitarVisto/" class="list-group-item list-group-item-action active" style="text-shadow:2px 2px 3px rgba(117, 106, 106, 0.8);">Categoria dos Vistos</a>
         <a href="http://www.sme.gov.ao/requisitosvistos/" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5">Requisitos dos Vistos</a>
         <a href="http://www.sme.gov.ao/instrucoes/" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5">Instruções</a>
-        <a  href="http://www.sme.gov.ao/Consulate.aspx?t=4/9/2019%2012:21:45%20PM" target="_blank" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5"  >Solicitar Visto</a>
+        <a  href="https://www.sme.gov.ao/solicitarvistos/" target="_blank" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5"  >Solicitar Visto</a>
         <a href="http://www.sme.gov.ao/alterapedido/" target="_blank" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5">Alterar Pedido</a>
         <a href="http://www.sme.gov.ao/consultarestado/" target="_blank" class="list-group-item list-group-item-action list-group-item-my-color-5 text-my-color-5">Consultar Estado</a>
 
