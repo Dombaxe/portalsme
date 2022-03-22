@@ -24,9 +24,13 @@
   </head>
   <body>
     <header class="fixed-top">
-        <nav class="navbar navbar-expand-lg max-headera bg-white">
-            <a class="navbar-brand col-9 logo" href="#">
+        <nav class="navbar navbar-expand-lg  bg-white">
+            <a class="navbar-brand col-9 logo d-md-block d-none max-headera" href="#">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="600px" height="90px">
+                                
+            </a>
+            <a class="navbar-brand col-9 logo d-sm-block d-md-none" href="#">
+                    <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="300px" height="90px">
                                 
             </a>
 
