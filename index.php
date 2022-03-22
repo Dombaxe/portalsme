@@ -417,7 +417,7 @@
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.aipex.gov.ao" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/aipex.jpg" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://www.cgpn.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/policia.PNG" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://sic.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/sic.jpg" class="img-fluid" width="100" height="100"></a></div>
-                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.welcometoangola.co.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/welcome2.jpg" class="img-fluid" width="100" height="100"></a></div>
+                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://hospedes.sme.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/sme.png" class="img-fluid" width="100" height="100"></a></div>
 
               </div>
 
