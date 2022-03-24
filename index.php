@@ -403,6 +403,7 @@
   </div>
 </div>
 </section>
+</main>
 
            <!-- Ligações úteis-->
           <section class="container section-ligacoes mt-5 element-animate">
@@ -423,6 +424,6 @@
               </div>
 
           </section>
-          </main>
+          
 
 <?php get_footer(); ?>
