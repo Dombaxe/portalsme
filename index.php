@@ -5,6 +5,7 @@
            <!--Mobile fim-->
 
            <!--DESTAQUE-->
+           <main style="background:#f4f4f2">
            <section class="container element-animate d-md-block d-none" style="padding-top:170px">
                     <div class="row">
                         <div class="col-sm-6 col-md-4">
@@ -422,5 +423,6 @@
               </div>
 
           </section>
+          </main>
 
 <?php get_footer(); ?>
