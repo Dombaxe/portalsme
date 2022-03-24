@@ -38,7 +38,7 @@
            <center><p class="lead"><a href="http://www.minint.gov.ao/"><img src="<?php bloginfo('template_url'); ?>/assets/evisa.jpg" class="img-fluid" width="150" height="150"></a></p>
           <p class="lead"><a href="http://www.aipex.gov.ao"><img src="<?php bloginfo('template_url'); ?>/assets/aipex.jpg" class="img-fluid" width="100" height="100"></a></p>
           <p class="lead"><a href="http://www.governo.gov.ao/"><img src="<?php bloginfo('template_url'); ?>/assets/angola.png" class="img-fluid" width="100" height="100"></a></p>
-          <p class="lead"><a href="https://www.cgpn.gov.ao/"><img src="<?php bloginfo('template_url'); ?>/assets/policia.png" class="img-fluid" width="100" height="100"></a></p>
+          <p class="lead"><a href="https://pna.gov.ao/"><img src="<?php bloginfo('template_url'); ?>/assets/policia.png" class="img-fluid" width="100" height="100"></a></p>
           <div class="lead"><a href="https://hospedes.sme.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/sme.png" class="img-fluid" width="100" height="100"></a></div>
 
         </div>

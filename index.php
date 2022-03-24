@@ -417,7 +417,7 @@
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/angola.PNG" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.smevisa.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/evisa.jpg" class="img-fluid" width="150" height="150"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.aipex.gov.ao" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/aipex.jpg" class="img-fluid" width="100" height="100"></a></div>
-                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://www.cgpn.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/policia.PNG" class="img-fluid" width="100" height="100"></a></div>
+                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://pna.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/policia.PNG" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://sic.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/sic.jpg" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://hospedes.sme.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/sme.png" class="img-fluid" width="100" height="100"></a></div>
 
