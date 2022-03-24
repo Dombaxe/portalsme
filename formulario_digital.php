@@ -45,19 +45,19 @@ Template Name: Formularios digitais
          <h4 style="font-weight:bold">BAIXAR OS SEGUINTES FORMULÁRIOS DIGITAIS </h4>
          
          <div style="font-weight:bold" class="my-3">
-         <a href="<?php bloginfo('template_url'); ?>/formularios/FORMULÁRIO DE PEDIDO DE VISTOS.pdf" target="_blank" style="color:white;text-decoration:none;color:black">
+         <a href="<?php bloginfo('template_url'); ?>/formularios/FORMULÁRIO DE PEDIDO DE VISTOS.pdf" target="_blank">
          FORMULÁRIO DIGITAL DE PEDIDO DE VISTOS
           <i class="fa fa-file" style="font-size:29px;color:red"></i></a>
          </div>
 
           <div style="font-weight:bold" class="mb-3">
-          <a href="<?php bloginfo('template_url'); ?>/formularios/FORMÁLARIO DE PEDIDO DE PASSAPORTE.pdf" target="_blank" style="color:white;text-decoration:none;color:black">
+          <a href="<?php bloginfo('template_url'); ?>/formularios/FORMÁLARIO DE PEDIDO DE PASSAPORTE.pdf" target="_blank">
           FORMULÁRIO DIGITAL DE PEDIDO DE PASSAPORTE
           <i class="fa fa-file" style="font-size:29px;color:red"></i></a>
          </div>
 
           <div style="font-weight:bold" class="mb-3">
-          <a href="<?php bloginfo('template_url'); ?>/formularios/FORMULÁRIO DE PEDIDO DE TÍTULO DE RESIDÊNCIA.pdf" target="_blank" style="color:white;text-decoration:none;color:black">
+          <a href="<?php bloginfo('template_url'); ?>/formularios/FORMULÁRIO DE PEDIDO DE TÍTULO DE RESIDÊNCIA.pdf" target="_blank">
           FORMULÁRIO DIGITAL DE PEDIDO DE TÍTULO DE RESIDÊNCIA 
          <i class="fa fa-file" style="font-size:29px;color:red"></i></a>
          </div>
