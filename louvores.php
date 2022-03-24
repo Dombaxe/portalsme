@@ -6,7 +6,7 @@ Template Name: Louvores e Reclamações
 <?php get_header(); ?>
 
 <section>
- <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="padding-top:11rem">
+ <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="padding-top:9rem">
        <div class="carousel-inner">
          
          <div class="carousel-item active">
