@@ -387,8 +387,8 @@ div .dom:hover{
     box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
 }
 .ver .btn-lg:hover{
-    /* background:#f5d21a; */
-    box-shadow: 2px 5px 10px rgb(7, 0, 0, .2);
+    background:#f5d21a;
+    /* box-shadow: 2px 5px 10px rgb(7, 0, 0, .2); */
 }
 
 /* section-portflo */
