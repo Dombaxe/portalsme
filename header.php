@@ -48,7 +48,7 @@
             </section>   
                  
           </nav>
-          <nav class="navbar navbar-expand-lg navbar-white p-0" style="background:#f5d21a;">
+          <nav class="navbar navbar-expand-lg navbar-white p-0" style="background:#117EB9;">
                 <a class="navbar-brand col-3" href="#"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'your-theme-slug' ); ?>">
                         <span class="navbar-toggler-icon text-dark">
