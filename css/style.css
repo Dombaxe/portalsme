@@ -536,7 +536,8 @@ div .dom:hover{
     background-color: #f5d21a;
 }
 .sp{
-    background:#117eb9;
+    /* background:#117eb9; */
+    background: radial-gradient(208.79% 20249.73% at 0.9% 50.55%, #2F558C 0%, rgba(3, 210, 255, 0.66) 100%);
 
 }
 .sp:hover{
