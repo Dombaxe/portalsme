@@ -3,6 +3,7 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    
 }
 /*header navbar*/
 
@@ -368,7 +369,7 @@ div .dom:hover{
 
 .ver-mais{
     
-    box-shadow: 1px 1px 1px rgba(180, 168, 168, 0.2);
+    /* box-shadow: 1px 1px 1px rgba(180, 168, 168, 0.2); */
 }
 .ver-mais .ver{
     padding:40px;
@@ -385,8 +386,8 @@ div .dom:hover{
     box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
 }
 .ver .btn-lg:hover{
-    background:#CCCD3E;
-    box-shadow: 2px 5px 10px rgb(7, 0, 0, .2);
+    background:#f5d21a;
+    /* box-shadow: 2px 5px 10px rgb(7, 0, 0, .2); */
 }
 
 /* section-portflo */
@@ -519,16 +520,26 @@ div .dom:hover{
 
 .card{
     
-    box-shadow: 5px 5px 15px rgba(104, 87, 4, 0.493);
+    /* box-shadow: 5px 5px 15px rgba(104, 87, 4, 0.493); */
+    box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
     transition: 0.5s ease;
     cursor: pointer;
+    
+    
 }
 .card-img-top{
     background-size:cover;
 }
 .card:hover{
     transform: scale(1.1);
-    box-shadow: 5px 5px 15px  rgba(104, 87, 4, 0.493);
-    background-color: #f5ae06; 
+    box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
+    background-color: #f5d21a;
 }
+.sp{
+    background:#117eb9;
 
+}
+.sp:hover{
+    background: #f5d21a;
+
+}

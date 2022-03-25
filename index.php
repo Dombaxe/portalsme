@@ -6,11 +6,12 @@
 
            <!--DESTAQUE-->
            <main style="background:#f4f4f2">
-           <section class="container element-animate d-md-block d-none" style="padding-top:170px">
+           <section class="container element-animate d-md-block d-none" style="padding-top:150px">
                     <div class="row">
                         <div class="col-sm-6 col-md-4">
                             <a target="_blank"  href="//www.smevisa.gov.ao/">
-                            <div class="card text-white mb-2" style="background:#117eb9">
+                            <div class="card text-white mb-2 sp"> 
+                                <!-- style="background:#117eb9" -->
                               <div class="card-header text-center">
                                   <p><i class="fa fa-globe" style="font-size:29px;color:white"></i></p>
                                   <a target="_blank"  href="//www.smevisa.gov.ao/" style="color:white;text-decoration:none">VISTO DE TURISMO ONLINE</a>
@@ -20,7 +21,7 @@
                         </div>
                         <div class="col-sm-6 col-md-4">
                             <a href="https://www.sme.gov.ao/formularios-digitais/">
-                            <div class="card text-white mb-2" style="background:#117eb9">
+                            <div class="card text-white mb-2 sp">
                               <div class="card-header text-center">    
                                   <p><i class="fa fa-file" style="font-size:29px;color:white"></i></p>
                                   <a href="https://www.sme.gov.ao/formularios-digitais/" style="color:white;text-decoration:none">FORMULÁRIOS DIGITAIS</a>
@@ -31,7 +32,7 @@
                                 
                         <div class="col-sm-6 col-md-4">
                             <a href="https://www.sme.gov.ao/agendamento/">
-                            <div class="card text-white mb-2" style="background:#117eb9">
+                            <div class="card text-white mb-2 sp">
                               <div class="card-header text-center">  
                               <p><i class="fa fa-calendar" style="font-size:29px;color:white"></i></p>
                                   <a href="https://www.sme.gov.ao/agendamento/" style="color:white;text-decoration:none"> AGENDAMENTO</a>                         
@@ -414,7 +415,7 @@
               
               <div class="row">
               
-                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/angola.PNG" class="img-fluid" width="100" height="100"></a></div>
+                  <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://governo.gov.ao/ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/angola.PNG" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.smevisa.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/evisa.jpg" class="img-fluid" width="150" height="150"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="http://www.aipex.gov.ao" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/aipex.jpg" class="img-fluid" width="100" height="100"></a></div>
                   <div class="col-sm-4 col-lg-2 text-center mb-2"><a href="https://pna.gov.ao/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/policia.PNG" class="img-fluid" width="100" height="100"></a></div>

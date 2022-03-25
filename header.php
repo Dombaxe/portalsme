@@ -24,11 +24,11 @@
   </head>
   <body>
     <header class="fixed-top">
-        <nav class="navbar navbar-expand-lg max-headera">
+        <nav class="navbar navbar-expand-lg max-headera bg-white">
             <a class="navbar-brand col-9 logo d-md-block d-none max-headera" href="https://www.sme.gov.ao/">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="550px" height="90px">                               
             </a>
-            <a class="navbar-brand col-9 logo d-sm-block d-md-none" href="https://www.sme.gov.ao/">
+            <a class="navbar-brand col-12 logo d-sm-block d-md-none justify-content-center" href="https://www.sme.gov.ao/">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="350px" height="90px">                               
             </a>
             
@@ -48,7 +48,7 @@
             </section>   
                  
           </nav>
-          <nav class="navbar navbar-expand-lg navbar-white" style="background:#117eb9">
+          <nav class="navbar navbar-expand-lg navbar-white p-0" style="background:#f5d21a;">
                 <a class="navbar-brand col-3" href="#"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'your-theme-slug' ); ?>">
                         <span class="navbar-toggler-icon text-dark">
