@@ -308,7 +308,7 @@ div .dom:hover{
 /* section-orc solicita orcamento */
 
 .section-orc{
-    background:#117EB9;
+    background:radial-gradient(208.79% 20249.73% at 0.9% 50.55%, #2F558C 0%, rgba(3, 210, 255, 0.66) 100%);
     text-align:center;
     padding:6rem;
     box-shadow: 2px 5px 10px rgba(112, 106, 106, 0.2);
@@ -537,7 +537,7 @@ div .dom:hover{
 }
 .sp{
     /* background:#117eb9; */
-    background: radial-gradient(208.79% 20249.73% at 0.9% 50.55%, #2F558C 0%, rgba(3, 210, 255, 0.66) 100%);
+    background:radial-gradient(208.79% 20249.73% at 0.9% 50.55%, #2F558C 0%, rgba(3, 210, 255, 0.66) 100%);
 
 }
 .sp:hover{
