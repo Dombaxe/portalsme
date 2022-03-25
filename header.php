@@ -28,7 +28,7 @@
             <a class="navbar-brand col-9 logo d-md-block d-none max-headera" href="https://www.sme.gov.ao/">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="550px" height="90px">                               
             </a>
-            <a class="navbar-brand col-12 logo d-sm-block d-md-none justify-content-center" href="https://www.sme.gov.ao/">
+            <a class="navbar-brand col-12 logo d-sm-block d-md-none justify-content-center mb-1" href="https://www.sme.gov.ao/">
                     <img src="<?php bloginfo('template_url'); ?>/assets/SME GOV.ao MAUSC.png" width="350px" height="90px">                               
             </a>
             
