@@ -387,7 +387,7 @@ div .dom:hover{
     box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
 }
 .ver .btn-lg:hover{
-    background:#f5d21a;
+    background:#f2af28;
     /* box-shadow: 2px 5px 10px rgb(7, 0, 0, .2); */
 }
 
@@ -534,7 +534,7 @@ div .dom:hover{
 .card:hover{
     transform: scale(1.1);
     box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
-    background-color: #f5d21a;
+    background-color:#f2af28;
 }
 .sp{
     /* background:#117eb9; */
@@ -542,6 +542,6 @@ div .dom:hover{
 
 }
 .sp:hover{
-    background: #f5d21a;
+    background:#f2af28;
 
 }
