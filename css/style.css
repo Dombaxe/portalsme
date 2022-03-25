@@ -376,7 +376,8 @@ div .dom:hover{
     text-align:center;
 }
 .ver .btn-lg{
-    background:#117EB9;
+    /* background:#117EB9; */
+    background:radial-gradient(208.79% 20249.73% at 0.9% 50.55%, #2F558C 0%, rgba(3, 210, 255, 0.66) 100%);
     color:white;
     text-transform: uppercase;
     padding:13px 35px;
@@ -386,8 +387,8 @@ div .dom:hover{
     box-shadow: 2px 5px 10px rgb(2, 0, 0, .2);
 }
 .ver .btn-lg:hover{
-    background:#f5d21a;
-    /* box-shadow: 2px 5px 10px rgb(7, 0, 0, .2); */
+    /* background:#f5d21a; */
+    box-shadow: 2px 5px 10px rgb(7, 0, 0, .2);
 }
 
 /* section-portflo */
